@@ -1,3 +1,3 @@
 # vinay_demo
 first git repository
-creater : Vinay Garude
+Auther: Vinay Garude
